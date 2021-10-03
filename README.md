@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @liviuxyz-ctrl
-- 👀 I’m interested in ... programming and UNIX Operating Systems
+- 👀 I’m interested in ... programming and linux
 - 🌱 I’m currently learning ... java 
