@@ -7,5 +7,5 @@
 ![linux](arch_linux.gif)
 
 ## Contact
-- Linkdin : https://www.linkedin.com/in/liviu-stăniloiu/
-- Discord : Liviu#8834
+- Linkdin : https://www.linkedin.com/in/liviu-stăniloiu/ <br>
+- Discord: Liviu#8834
