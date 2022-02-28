@@ -9,4 +9,4 @@
 ## Contact
 - Linkdin : https://www.linkedin.com/in/liviu-stăniloiu/ <br>
 - Discord: Liviu#8834
-- Stackoverflow: liviuxyz-ctrl
+- Stackoverflow: <a href="https://stackoverflow.com/users/14892082/liviuxyz-ctrl">Liviuxyz-ctrl</a>
