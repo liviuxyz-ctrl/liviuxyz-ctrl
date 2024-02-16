@@ -1,7 +1,7 @@
 ## Hi I'm Liviu :) 
 - 👋 Hi, I’m @liviuxyz-ctrl
 - 👀 I’m interested in ... programming and linux
-- 🌱 I’m currently learning ... java and bash scripting
+- 🌱 I’m currently learning ... machine learning and data science
 
 
 ![linux](arch_linux.gif)
